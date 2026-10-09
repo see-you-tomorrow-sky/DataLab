@@ -19,11 +19,11 @@
 ./btest
 ```
 
-测试截图待本人补充，完整文字日志已保存在 `images/` 中，便于核对。两张截图分别保存为 `images/operator-check.png` 和 `images/btest.png`，补充后在对应位置插入图片。
+以下为实际执行命令后的终端截图，完整文字日志也保存在 `images/` 中，便于核对。
 
 ### 运算符检查
 
-待补充运行 `./check_ops.py bits.c` 的终端截图。
+![运算符检查输出](images/operator-check.png)
 
 [查看完整检查日志](images/operator-check.txt)
 
@@ -31,7 +31,7 @@
 
 ### 正确性测试
 
-待补充运行 `./btest` 的终端截图。
+![btest 完整输出](images/btest.png)
 
 [查看完整测试日志](images/btest.txt)
 
