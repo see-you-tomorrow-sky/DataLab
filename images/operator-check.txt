@@ -1,0 +1,20 @@
+signMask: 1/2 operators
+bitXor: 7/8 operators
+negativePart: 4/6 operators
+copyByteWithin: 10/12 operators
+logicalShift: 6/20 operators
+swapNibblePairs: 9/18 operators
+secondLowestZeroBit: 7/8 operators
+oddParity: 12/56 operators
+rotateRightBits: 12/16 operators
+roundEvenPow2: 10/24 operators
+midpointTowardFirst: 11/32 operators
+isBetweenEitherOrder: 26/48 operators
+mul5Sat: 17/30 operators
+classifyAdd3: 19/52 operators
+floatScaleThreeHalves: 32/60 operators
+floatRoundEven: 25/65 operators
+float_i2f: 23/40 operators
+bitCount: 29/40 operators
+bitReverse: 34/34 operators
+All 19 functions passed operator checks.
