@@ -19,11 +19,11 @@
 ./btest
 ```
 
-下方图片根据本次实际终端输出日志渲染生成，完整文字日志也保存在 `images/` 中，便于核对。
+测试截图待本人补充，完整文字日志已保存在 `images/` 中，便于核对。两张截图分别保存为 `images/operator-check.png` 和 `images/btest.png`，补充后在对应位置插入图片。
 
 ### 运算符检查
 
-![运算符检查输出](images/operator-check.png)
+待补充运行 `./check_ops.py bits.c` 的终端截图。
 
 [查看完整检查日志](images/operator-check.txt)
 
@@ -31,7 +31,7 @@
 
 ### 正确性测试
 
-![btest 完整输出](images/btest.png)
+待补充运行 `./btest` 的终端截图。
 
 [查看完整测试日志](images/btest.txt)
 
@@ -142,4 +142,4 @@
 - [课程 Lab1 完整文档](https://github.com/ICS-26Fall-FDU/ICS-26Fall-FDU.github.io/blob/main/docs/labs/lab1-data-lab.md)：题目要求、报告要求和提交方式。
 - [课程 Lab0 作业提交流程](https://github.com/ICS-26Fall-FDU/ICS-26Fall-FDU.github.io/blob/main/docs/labs/lab0-git-lab.md)：通过 `Use this template` 创建个人仓库。
 - 本仓库的 [README.md](README.md)、[bits.c](bits.c) 以及自带检查器和测试程序：编码规则、函数语义和验证结果。
-- 使用 ChatGPT/Codex 辅助讲解题意、补码和位运算，辅助完成部分实现、修复错误、执行测试，并整理本报告及测试输出图片。
+- 使用 ChatGPT/Codex 辅助讲解题意、补码和位运算，辅助完成部分实现、修复错误、执行测试，并整理本报告和测试输出日志。
